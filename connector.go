@@ -1,4 +1,4 @@
-package beecon
+package beepool
 
 const (
 	DefaultSection      string = "default"

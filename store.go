@@ -1,4 +1,4 @@
-package beecon
+package beepool
 
 import (
 	"errors"
